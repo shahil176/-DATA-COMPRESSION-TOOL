@@ -35,3 +35,4 @@ The RLE algorithm used here is a lossless compression technique, meaning no info
 In conclusion, this task not only helped in developing a useful compression utility but also laid the foundation for deeper learning in areas like data encoding, compiler optimization, memory efficiency, and storage management. It’s a great example of how simple programming logic can solve practical problems effectively.
 #OUTPUT:
 ![Image](https://github.com/user-attachments/assets/0a5b9c83-486b-4206-9556-0bd2248921fb)
+![Image](https://github.com/user-attachments/assets/15ecae6e-9b76-4c77-ae4d-610cf629fd9b)
